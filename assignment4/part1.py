@@ -185,5 +185,5 @@ def main():
 
         plot_model_brain_alignment(model_name, untrained_statistics, trained_statistics)
 
-if __name__ == "__main__":
+if __name__ == "__main__": # check of git for me 
     main()
